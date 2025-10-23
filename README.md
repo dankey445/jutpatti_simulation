@@ -25,7 +25,7 @@ python main.py
 ### Simulate 5000 games (default)
 
 ```bash
-python main.py
+python main.py --simulate
 ```
 
 ### Simulate n games (custom)
